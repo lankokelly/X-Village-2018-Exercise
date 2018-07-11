@@ -1,4 +1,4 @@
-##Lesson 2 - Python Basic課堂練習(計分)  
+Lesson 2 - Python Basic課堂練習(計分)  
 1. 用公式解解一元二次方程式  
 2. 判斷座標在第幾象限  
 3. 終極密碼 － 猜數字 （小遊戲）  
