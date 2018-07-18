@@ -13,6 +13,6 @@ with open( 'music_show.json', 'r' , encoding='utf-8-sig' ) as ff:
     txtfile = open( 'music_show.txt' , 'w' , encoding='utf-8-sig' )
     music = json.load(ff)
     for i in music:
-        event_date_string = i['title'] + ":" + i['startDate']+ "~" + i['startDate']
+        event_date_string = i['title'] + " : " + i['startDate']+ " ~ " + i['startDate']
         txtfile.write( event_date_string +'\n' )
     txtfile.close()
